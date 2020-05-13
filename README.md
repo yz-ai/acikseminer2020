@@ -13,7 +13,7 @@ Açık Seminer (https://www.acikseminer.com/) serisinin doğal dil işleme hafta
 
 ## Açık Seminer 14. Gün: NLP 101: Doğal Dil İşlemeye Giriş
 
-14:00 - 15:50 - **NLP 101: Doğal Dil İşlemeye Giriş** - *Başak Buluz (Gebze Teknik Üniversitesi), Yavuz Kömeçoğlu (Kodiks Bilişim)*
+14:00 - 15:50 - **NLP 101: Doğal Dil İşlemeye Giriş** - *[Başak Buluz](http://blog.basakbuluz.com/)(Gebze Teknik Üniversitesi), [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)*
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/README.md)
 
@@ -26,7 +26,7 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 ## Açık Seminer 20. Gün: Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması
 
-16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *Yavuz Kömeçoğlu (Kodiks Bilişim), Ayyüce Kızrak (CB Dijital Dönüşüm Ofisi)*
+16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *[Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim), [Ayyüce Kızrak](http://www.ayyucekizrak.com/) (CB Dijital Dönüşüm Ofisi)*
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/cv/README.md)
 
