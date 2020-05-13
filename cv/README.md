@@ -1,5 +1,5 @@
 # Açık Kaynak Seminer Programı - 2020
-Türkiye Açık Kaynak Platformunun organizasyonluğunda düzenlenen Açık Seminer (https://www.acikseminer.com/) serisinin Yapay Zekâ haftasında [Açık Seminer 20. Gün: Yapay Zeka Servislerine Genel Bakış](https://www.acikseminer.com/seminerler/acik-seminer-20-gun-microsoft-yapay-zeka-servislerine-genel-bakis-2a911429) konulu sunuma ait kaynaklar.
+[Türkiye Açık Kaynak Platformu](https://www.turkiyeacikkaynakplatformu.com/)nun organizasyonluğunda düzenlenen [Açık Seminer](https://www.acikseminer.com/) serisinin Yapay Zekâ haftasında [Açık Seminer 20. Gün: Yapay Zeka Servislerine Genel Bakış](https://www.acikseminer.com/seminerler/acik-seminer-20-gun-microsoft-yapay-zeka-servislerine-genel-bakis-2a911429) konulu sunuma ait kaynaklar.
 
 <p align="center">
   <img src="https://www.acikseminer.com/wp-content/uploads/2020/04/acil-seminer-logo.svg" />
@@ -37,6 +37,8 @@ COVID-19 Gösüs X-ray görüntülerinin Sınıflandırılması
 [T-Covid Web Demo](https://covid.tfashion.ai/)
 
 Details: https://devpost.com/software/t-covid-a-fast-covid-19-diagnosis-tool
+
+---
 
 ### Kaynaklar
 - [Fundus photograph-based deep learning algorithms in detecting diabetic retinopathy](https://www.nature.com/articles/s41433-018-0269-y)
