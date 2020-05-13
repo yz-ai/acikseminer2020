@@ -30,7 +30,7 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/README.md)
 
-:paperclip: Sunumun blog yazısına [buradan]() erişebilirsiniz.
+:bar_chart: Sunumun blog yazısına [buradan]() erişebilirsiniz.
 
 :movie_camera: Sunumun tamamını [buradan](https://youtu.be/1G4RQqGiBCg) izleyebilirsiniz.
 
