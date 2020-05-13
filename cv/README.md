@@ -33,6 +33,8 @@
 ## COVID19-xray-Sınıflama Çalışması
 COVID-19 Gösüs X-ray görüntülerinin Sınıflandırılması 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/covid_xray_efficientnet_b0_prediction.ipynb)
+
 ### Web Demo
 [T-Covid Web Demo](https://covid.tfashion.ai/)
 
