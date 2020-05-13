@@ -28,5 +28,11 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *Yavuz Kömeçoğlu (Kodiks Bilişim), Ayyüce Kızrak (CB Dijital Dönüşüm Ofisi)*
 
+Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/README.md)
+
+:paperclip: Sunumun blog yazısına [buradan]() erişebilirsiniz.
+
+:movie_camera: Sunumun tamamını [buradan](https://youtu.be/1G4RQqGiBCg) izleyebilirsiniz.
+
 Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/cv/README.md)
 
