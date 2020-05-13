@@ -15,7 +15,7 @@ Açık Seminer (https://www.acikseminer.com/) serisinin doğal dil işleme hafta
 
 14:00 - 15:50 - **NLP 101: Doğal Dil İşlemeye Giriş** - *Başak Buluz (Gebze Teknik Üniversitesi), Yavuz Kömeçoğlu (Kodiks Bilişim)*
 
-Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/README.md)
+:apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/README.md)
 
 :paperclip: Sunum dosyasına [buradan](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/NLP101-AcikSeminer.pptx) erişebilirsiniz.
 
@@ -28,11 +28,11 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *Yavuz Kömeçoğlu (Kodiks Bilişim), Ayyüce Kızrak (CB Dijital Dönüşüm Ofisi)*
 
-Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/README.md)
+:apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/cv/README.md)
 
 :bar_chart: Sunumun blog yazısına [buradan]() erişebilirsiniz.
 
 :movie_camera: Sunumun tamamını [buradan](https://youtu.be/1G4RQqGiBCg) izleyebilirsiniz.
 
-Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/cv/README.md)
+
 
