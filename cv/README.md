@@ -35,7 +35,7 @@ COVID-19 Gösüs X-ray görüntülerinin Sınıflandırılması
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/covid_xray_efficientnet_b0_prediction.ipynb)
 
-![](https://github.com/yz-ai/acikseminer2020/blob/master/cv/images/training_results_3.png)
+![](https://github.com/yz-ai/acikseminer2020/blob/master/cv/images/training_results_2.png)
 
 ### Web Demo
 [T-Covid Web Demo](https://covid.tfashion.ai/)
