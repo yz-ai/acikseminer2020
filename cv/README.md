@@ -12,7 +12,7 @@
 ## Açık Seminer 20. Gün: Yapay Zeka Servislerine Genel Bakış
 
 
-16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *Ayyüce Kızrak (CB Dijital Dönüşüm Ofisi), Yavuz Kömeçoğlu (Kodiks Bilişim)*
+16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *[Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim), [Ayyüce Kızrak](http://www.ayyucekizrak.com/) (CB Dijital Dönüşüm Ofisi)*
 
 :pencil: Blog yazısına [buradan]() erişebilirsiniz.
 
