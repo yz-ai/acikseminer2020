@@ -1,10 +1,36 @@
-# COVID19-xray-classifier
+# Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması
+---
+
+### Sunum içeriği
+:small_blue_diamond:Derin öğrenme ile sağlıkta tanı için prosedür
+:small_blue_diamond:Zorluklar ve üstesinden gelme yöntemleri
+:small_blue_diamond:Değerlendirme metrikleri
+:small_blue_diamond:Açıklanabilirlik ve Mahremiyet
+:small_blue_diamond:Model uygulama ve Demo
+:small_blue_diamond:Yararlı kaynaklar
+
+
+
+
+## COVID19-xray-classifier
 Classification for covid-19 chest X-ray images 
 
-
-
 ### Web Demo
-
 [T-Covid Web Demo](https://covid.tfashion.ai/)
 
 Details: https://devpost.com/software/t-covid-a-fast-covid-19-diagnosis-tool
+
+### Kaynaklar
+[Fundus photograph-based deep learning algorithms in detecting diabetic retinopathy](https://www.nature.com/articles/s41433-018-0269-y)
+[Impact of Deep Learning Assistance on the Histopathologic Review of Lymph Nodes for Metastatic Breast Cancer](https://www.ncbi.nlm.nih.gov/pubmed/30312179)
+[Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
+[ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax [Diseases](https://arxiv.org/pdf/1705.02315.pdf)
+[AI for Medicine Course on deeplearning.ai](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome)
+[Fine-Tuning ve Transfer Öğrenme Nedir?](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/TransferOgrenme_FineTuning)
+[Açıklanabilir Yapay Zeka Nedir ve İhtiyaç Mıdır?](https://medium.com/@ayyucekizrak/a%C3%A7%C4%B1klanabilir-yapay-zeka-nedir-ve-i%CC%87htiya%C3%A7-m%C4%B1d%C4%B1r-65adef9b086)
+[COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images](https://arxiv.org/pdf/2003.09871v3.pdf)
+[COVID-Net Open Source Initiative](https://github.com/lindawangg/COVID-Net)
+[CNN Explainer - Demo](https://poloclub.github.io/cnn-explainer/)
+[OpenAI Microscope](https://openai.com/blog/microscope/)
+[When Private Data is Not Private](https://info.deeplearning.ai/the-batch-artificial-noses-surveillance-on-wheels-unwelcome-researchers-privacy-problems-beyond-bounding-boxes)
+[Medical Data Sharing, Harmonization, and Analytics](https://www.elsevier.com/books/medical-data-sharing-harmonization-and-analytics/pezoulas/978-0-12-816507-2)
