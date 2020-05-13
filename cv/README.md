@@ -58,7 +58,7 @@ Details: https://devpost.com/software/t-covid-a-fast-covid-19-diagnosis-tool
 ---
 
 ### COVID-19 ile İlgili Yayınlanan Veri Kümelerinden Bazıları
-* [COVID-19 Open Research Dataset Challenge](: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+* [COVID-19 Open Research Dataset Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 * [COVID Chest X-Ray Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
 * [COVID-19 CT segmentation dataset](http://medicalsegmentation.com/covid19/)
 * [COVID-Net](https://github.com/lindawangg/COVID-Net)
