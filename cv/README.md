@@ -32,7 +32,7 @@
 
 ## COVID19-xray-Sınıflama Çalışması
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/covid_xray_efficientnet_b0_prediction.ipynb)COVID-19 Gösüs X-ray görüntülerinin Sınıflandırılması 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/covid_xray_efficientnet_b0_prediction.ipynb) COVID-19 Gösüs X-ray görüntülerinin Sınıflandırılması 
 
 ![](https://github.com/yz-ai/acikseminer2020/blob/master/cv/images/training_results_2.png)
 ![](https://github.com/yz-ai/acikseminer2020/blob/master/cv/images/training_results_1.png)
