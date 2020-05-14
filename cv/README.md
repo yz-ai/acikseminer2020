@@ -34,7 +34,13 @@
 
 *Konuyla ilgili akademik çalışmalarımız kabul almıştır, yayınlandığında paylaşılacaktır.*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/covid_xray_efficientnet_b0_prediction.ipynb) COVID-19 Gösüs X-ray görüntülerinin Sınıflandırılması 
+COVID-19 Göğüs X-ray Görüntülerinin Sınıflandırılması Çalışma Dosyası
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/covid_xray_efficientnet_b0_prediction.ipynb) 
+
+Grad-Cam ile Modelin Katmanlarının Görselleştirilmesi Çalışma Dosyası
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/acikseminer2020/blob/master/cv/notebooks/notebooks/covid_xray_efficientnet_b0_activation_map.ipynb) 
 
 ![](https://github.com/yz-ai/acikseminer2020/blob/master/cv/images/training_results_2.png)
 ![](https://github.com/yz-ai/acikseminer2020/blob/master/cv/images/training_results_1.png)
