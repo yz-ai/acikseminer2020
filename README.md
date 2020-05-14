@@ -30,9 +30,9 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/acikseminer2020/blob/master/cv/README.md)
 
-:bar_chart: Sunumun blog yazısına [buradan]() erişebilirsiniz.
+:bar_chart: Sunumun blog yazısına [buradan](https://medium.com/@ayyucekizrak/medikal-g%C3%B6r%C3%BCnt%C3%BClerde-bilgisayarl%C4%B1-g%C3%B6r%C3%BC-3b7dd2abe641) erişebilirsiniz.
 
-:movie_camera: Sunumun tamamını [buradan](https://youtu.be/1G4RQqGiBCg) izleyebilirsiniz.
+:movie_camera: Sunumun tamamını [buradan](https://www.youtube.com/watch?v=Za38P0WLhP8) izleyebilirsiniz.
 
 
 
