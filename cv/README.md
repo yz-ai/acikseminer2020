@@ -53,6 +53,14 @@ Grad-Cam ile Modelin Katmanlarının Görselleştirilmesi Çalışma Dosyası
 Details: https://devpost.com/software/t-covid-a-fast-covid-19-diagnosis-tool
 
 ---
+### Webinar + Demo
+Sonunda açıklanabilirlik ve medikal NLP demosu [Bora Uyumaztürk](http://web.stanford.edu/~yuyumaz/) tarafından geçrekleştiriliyor.
+[Pie & AI: Real-world AI Applications in Medicine](https://www.youtube.com/watch?v=Rp7qqjlBeRY&feature=youtu.be)
+---
+
+[ODTÜ - Fen bilimleri Enstitüsü, Nörobilim ve Nöroteknoloji](https://nsnt.metu.edu.tr/)
+
+---
 
 ### Kaynaklar
 - [Fundus photograph-based deep learning algorithms in detecting diabetic retinopathy](https://www.nature.com/articles/s41433-018-0269-y)
