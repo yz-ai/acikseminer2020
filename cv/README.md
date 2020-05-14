@@ -14,7 +14,7 @@
 
 16:00 - 17:00 - **Derin Öğrenme ile Göğüs Röntgeni Görüntülerinden Tanı Önerisi Çalışması** - *[Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim), [Ayyüce Kızrak](http://www.ayyucekizrak.com/) (CB Dijital Dönüşüm Ofisi)*
 
-:pencil: Blog yazısına [buradan]() erişebilirsiniz.
+:pencil: Blog yazısına [buradan](https://medium.com/@ayyucekizrak/medikal-g%C3%B6r%C3%BCnt%C3%BClerde-bilgisayarl%C4%B1-g%C3%B6r%C3%BC-3b7dd2abe641) erişebilirsiniz.
 
 ---
 
