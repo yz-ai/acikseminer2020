@@ -26,7 +26,7 @@
 * Model uygulama ve Demo
 * Yararlı kaynaklar
 
-:clapper: Sunum videosuna [buradan](https://www.youtube.com/watch?v=Za38P0WLhP8) erişebilirsiniz.
+:clapper: Sunum videosuna [buradan](https://youtu.be/Za38P0WLhP8?t=3355) erişebilirsiniz.
 
 ---
 
