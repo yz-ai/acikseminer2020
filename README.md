@@ -32,7 +32,7 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 :bar_chart: Sunumun blog yazısına [buradan](https://medium.com/@ayyucekizrak/medikal-g%C3%B6r%C3%BCnt%C3%BClerde-bilgisayarl%C4%B1-g%C3%B6r%C3%BC-3b7dd2abe641) erişebilirsiniz.
 
-:movie_camera: Sunumun tamamını [buradan](https://www.youtube.com/watch?v=Za38P0WLhP8) izleyebilirsiniz.
+:movie_camera: Sunumun tamamını [buradan](https://youtu.be/Za38P0WLhP8?t=3355) izleyebilirsiniz.
 
 
 
