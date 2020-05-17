@@ -13,7 +13,7 @@ Türkiye Açık Kaynak Platformunun organizasyonluğunda düzenlenen Açık Semi
 
 14:00 - 15:50 - **NLP 101: Doğal Dil İşlemeye Giriş** - *Başak Buluz (Gebze Teknik Üniversitesi), Yavuz Kömeçoğlu (Kodiks Bilişim)*
 
-:paperclip: Sunum dosyasına [buradan](https://github.com/yz-ai/acikseminer2020/blob/master/NLP101-A%C3%A7%C4%B1k%20Seminer.pptx) erişebilirsiniz.
+:paperclip: Sunum dosyasına [buradan](https://github.com/yz-ai/acikseminer2020/blob/master/nlp/NLP101-AcikSeminer.pptx) erişebilirsiniz.
 
 Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur. 
 
